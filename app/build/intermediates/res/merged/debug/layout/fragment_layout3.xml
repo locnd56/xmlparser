@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff0000" />
+<!-- From: file:/D:/FSS/Learning/XMLParser/app/src/main/res/layout/fragment_layout3.xml -->

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<listmenu>
+    <menu
+        name="FragmentA"
+        class="com.example.xmlparser.fragment.FragmentA" >
+    </menu>
+    <menu
+        name="FragmentB"
+        class="com.example.xmlparser.fragment.FragmentB" >
+    </menu>
+    <menu
+        name="FragmentC"
+        class="com.example.xmlparser.fragment.FragmentC" >
+    </menu>
+
+</listmenu>
+<!-- <employees> -->
+<!-- <employee> -->
+<!-- <id>2163</id> -->
+<!-- <name>Nguyen Dinh Loc</name> -->
+<!-- <department>Dev</department> -->
+<!-- <email>phoenician93@gmail.com</email> -->
+<!-- </employee> -->
+<!-- <employee> -->
+<!-- <id>1234</id> -->
+<!-- <name>Nguyen Thi Dieu Linh</name> -->
+<!-- <department>Tester</department> -->
+<!-- <email>dieulinh95@gmai.com</email> -->
+<!-- </employee> -->
+<!-- <employee> -->
+<!-- <id>5678</id> -->
+<!-- <name>Nguyen Thi Nga</name> -->
+<!-- <department>QA</department> -->
+<!-- <email>ngarom97@gmai.com</email> -->
+<!-- </employee> -->
+<!-- </employees> -->
+<!-- From: file:/D:/FSS/Learning/XMLParser/app/src/main/res/xml/slideitem.xml -->
